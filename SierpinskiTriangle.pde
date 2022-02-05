@@ -1,7 +1,7 @@
 public void setup() {
   size(1000, 1000);
   colorMode(HSB);
-  background(12);
+  background(0);
 }
 
 public void draw() {
